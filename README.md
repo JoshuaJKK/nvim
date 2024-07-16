@@ -2,7 +2,7 @@
 
 My neovim config.
 
-<img src="preview.PNG">
+<img src="preview.png">
 
 ## Installation
 
