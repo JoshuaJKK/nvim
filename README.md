@@ -11,3 +11,11 @@ My neovim config.
 ```bash
 git clone https://github.com/MetalHex/nvim.git ~/.config/nvim
 ```
+
+Then in neovim run:
+
+```
+:Lazy
+```
+
+Then press <kbd>I</kbd> (capital 'i').
