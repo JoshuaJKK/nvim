@@ -19,3 +19,10 @@ Then in neovim run:
 ```
 
 Then press <kbd>I</kbd> (capital 'i').
+
+## Keymaps
+
+```<leader>``` = " " (space)
+
+```<leader>n``` - Open neotree
+```<leader>hl``` - Clear search highlights
