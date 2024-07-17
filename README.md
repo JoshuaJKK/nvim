@@ -9,7 +9,7 @@ My neovim config.
 > Requires the latest version of neovim
 
 ```bash
-git clone https://github.com/MetalHex/nvim.git ~/.config/nvim
+git clone https://github.com/JoshuaJKK/nvim.git ~/.config/nvim
 ```
 
 Then in neovim run:
