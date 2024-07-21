@@ -20,4 +20,5 @@ opt.background = "dark"
 opt.signcolumn = "yes"
 opt.backspace = "indent,eol,start"
 opt.mouse = "a"
-opt.clipboard:append("unnamedplus")
+opt.updatetime = 50
+vim.cmd("autocmd BufCreate,BufNew,BufRead,BufEnter,BufAdd *.h set ft=c")
