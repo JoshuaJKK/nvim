@@ -23,7 +23,7 @@ echo "alias vim=\"nvim\"" >> ~/.bashrc
 3. Install my neovim config.
 
 ```bash
-git clone https://github.com/JoshuaJKK/nvim.git ~/.config/nvim
+git clone https://github.com/jkinder17/nvim.git ~/.config/nvim
 ```
 
 4. Open neovim, which should install all plugins.
