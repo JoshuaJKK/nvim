@@ -14,6 +14,8 @@ chmod u+x nvim.appimage
 sudo mv ./nvim.appimage /usr/bin/nvim
 ```
 
+On Debian testing/unstable or Ubuntu, you may need to install ```libfuse2```.
+
 2. Alias vim with nvim (open nvim with 'vim' command).
 
 ```bash
